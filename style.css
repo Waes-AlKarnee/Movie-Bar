@@ -1,0 +1,17 @@
+.navbar-nav{
+margin-left: 150px;
+gap: 20px;
+}
+.card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card img{
+    max-width: 400px;
+
+}
+.col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
